@@ -43,7 +43,6 @@ A clean, modern, and highly optimized terminal environment built for macOS on Ap
 1. **克隆本仓库**
    ```bash
    git clone https://github.com/wgding/mac-m1-terminal-config.git
-   cd mac-m1-terminal-config
    ```
 
 2. **备份原配置**
